@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Fa!
 
-<!--
-**fabriciocap/fabriciocap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Who are you?
 
-Here are some ideas to get you started:
+I'm **Fa**, a **15-year-old high school student**, **Founder of Synapse AI**, and an aspiring **Full Stack Developer** from Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently enrolled in the **+PraTi Full Stack Development Program**, where I'm continuously improving my programming skills and building real-world projects.
+
+I'm passionate about **Artificial Intelligence**, software development, and creating technology that can make a positive impact.
+
+---
+
+## 💼 What are you currently working on?
+
+* 🚀 Building **Synapse AI**
+* 📚 Studying **HTML, CSS, and JavaScript**
+* 💻 Developing Full Stack projects through the **+PraTi** program
+* 🤖 Expanding my knowledge in Artificial Intelligence
+* 🌱 Continuously learning new technologies and best development practices
+
+---
+
+## 🛠️ What tools do you use?
+
+### Languages
+
+* HTML5
+* CSS3
+* JavaScript
+* Claude Code (AI coding assistant)
+
+### Tools
+
+* Visual Studio Code
+* Git
+* GitHub
+* Figma
+
+### Currently Learning
+
+* Full Stack Development
+* Artificial Intelligence
+
+---
+
+## 📫 How to reach you?
+
+* GitHub: https://github.com/fabriciocap
+* Email: fabriciocapeletti@gmail.com
+
+---
+
+> **"Dedication in every detail, results in every project."**
