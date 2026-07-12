@@ -1,35 +1,82 @@
-HI I'AM FA!
+# Hi 👋, I'm Herbert Souza
 
-I'm **Fa**, a **15-year-old high school student**, **Founder of Synapse AI**, and an aspiring **Full Stack Developer** from Brazil.
-I'm currently enrolled in the **+PraTi Full Stack Development Program**, where I'm continuously improving my programming skills and building real-world projects.
-I'm passionate about **Artificial Intelligence**, software development, and creating technology that can make a positive impact.
+Hi 👋, I'm Fabrício Capeletti
 
-## 💼 What are you currently working on?
+🚀 Software Developer in progress | JavaScript & AI Enthusiast
+🇧🇷 Brazil
 
-* 🚀 Building **Synapse AI**
-* 📚 Studying **HTML, CSS, and JavaScript**
-* 💻 Developing Full Stack projects through the **+PraTi** program
-* 🤖 Expanding my knowledge in Artificial Intelligence
-* 🌱 Continuously learning new technologies and best development practices
+I build web projects, explore artificial intelligence, and create solutions focused on technology and innovation.
 
-## 🛠️ What tools do you use?
+Currently learning software development, JavaScript, and AI while building projects like Synapse AI.
 
-### Languages
+--- 
 
-* HTML5
-* CSS3
-* JavaScript
-* Claude Code (AI coding assistant)
+## 🌐 Where to find me
 
-### Tools
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-fabriciocap-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@fabricio.capeletti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-* Visual Studio Code
-* Git
-* GitHub
-* Figma
+---
 
-## 📫 How to reach you?
+## 🧠 What I do
 
-* GitHub: https://github.com/fabriciocap
-* Email: fabriciocapeletti@gmail.com
+-   💻 Web development & modern applications
+-   🤖 Artificial Intelligence & automation projects
+-   🧩 Clean code & software organization
+-   🔐 Security practices & secure development
+-   🌐 APIs & system integrations
+-   📊 Interfaces, dashboards & data visualization
+-   🚀 Building innovative projects with technology
+-   📚 Learning and sharing knowledge in programming
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=fabriciocap&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabriciocap&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"O talento abre portas, mas é o esforço constante que constrói o caminho."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
 
