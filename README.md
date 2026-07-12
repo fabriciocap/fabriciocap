@@ -1,11 +1,7 @@
-# 👋 Hi, I'm Fa!
-
-## 🚀 Who are you?
+HI I'AM FA!
 
 I'm **Fa**, a **15-year-old high school student**, **Founder of Synapse AI**, and an aspiring **Full Stack Developer** from Brazil.
-
 I'm currently enrolled in the **+PraTi Full Stack Development Program**, where I'm continuously improving my programming skills and building real-world projects.
-
 I'm passionate about **Artificial Intelligence**, software development, and creating technology that can make a positive impact.
 
 ---
@@ -36,18 +32,8 @@ I'm passionate about **Artificial Intelligence**, software development, and crea
 * GitHub
 * Figma
 
-### Currently Learning
-
-* Full Stack Development
-* Artificial Intelligence
-
----
-
 ## 📫 How to reach you?
 
 * GitHub: https://github.com/fabriciocap
 * Email: fabriciocapeletti@gmail.com
 
----
-
-> **"Dedication in every detail, results in every project."**
