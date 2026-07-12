@@ -18,8 +18,7 @@ Currently learning software development, JavaScript, and AI while building proje
 -   📊 Interfaces, dashboards & data visualization
 -   🚀 Building innovative projects with technology
 -   📚 Learning and sharing knowledge in programming
----
-
+  
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -44,7 +43,6 @@ Currently learning software development, JavaScript, and AI while building proje
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
 
 ## 📊 GitHub Stats
 
