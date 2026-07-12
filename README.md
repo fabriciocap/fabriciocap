@@ -1,26 +1,14 @@
+# Hi 👋, I'm Herbert Souza
+
 Hi 👋, I'm Fabrício Capeletti
 
 🚀 Software Developer in progress | JavaScript & AI Enthusiast
 🇧🇷 Brazil
 
 I build web projects, explore artificial intelligence, and create solutions focused on technology and innovation.
-
 Currently learning software development, JavaScript, and AI while building projects like Synapse AI.
 
 --- 
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-fabriciocap-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@fabricio.capeletti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🧠 What I do
 
@@ -67,14 +55,5 @@ Currently learning software development, JavaScript, and AI while building proje
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabriciocap&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🚀 Philosophy
-
-> _"Talent opens doors, but constant effort builds the path."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
