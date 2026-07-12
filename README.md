@@ -1,5 +1,3 @@
-# Hi 👋, I'm Herbert Souza
-
 Hi 👋, I'm Fabrício Capeletti
 
 🚀 Software Developer in progress | JavaScript & AI Enthusiast
@@ -73,7 +71,7 @@ Currently learning software development, JavaScript, and AI while building proje
 
 ## 🚀 Philosophy
 
-> _"O talento abre portas, mas é o esforço constante que constrói o caminho."_
+> _"Talent opens doors, but constant effort builds the path."_
 
 ---
 
