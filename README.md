@@ -1,5 +1,3 @@
-# Hi 👋, I'm Herbert Souza
-
 Hi 👋, I'm Fabrício Capeletti
 
 🚀 Software Developer in progress | JavaScript & AI Enthusiast
