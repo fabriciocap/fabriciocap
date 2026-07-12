@@ -4,8 +4,6 @@ I'm **Fa**, a **15-year-old high school student**, **Founder of Synapse AI**, an
 I'm currently enrolled in the **+PraTi Full Stack Development Program**, where I'm continuously improving my programming skills and building real-world projects.
 I'm passionate about **Artificial Intelligence**, software development, and creating technology that can make a positive impact.
 
----
-
 ## 💼 What are you currently working on?
 
 * 🚀 Building **Synapse AI**
@@ -13,8 +11,6 @@ I'm passionate about **Artificial Intelligence**, software development, and crea
 * 💻 Developing Full Stack projects through the **+PraTi** program
 * 🤖 Expanding my knowledge in Artificial Intelligence
 * 🌱 Continuously learning new technologies and best development practices
-
----
 
 ## 🛠️ What tools do you use?
 
