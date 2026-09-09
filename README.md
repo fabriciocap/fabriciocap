@@ -6,6 +6,8 @@ Hi 👋, I'm Fabrício Capeletti
 I build web projects, explore artificial intelligence, and create solutions focused on technology and innovation.
 Currently learning software development, JavaScript, and AI while building projects like Luntrix.
 
+Check out my website - www.luntrix.com.br
+
 --- 
 
 ## 🧠 What I do
