@@ -4,7 +4,7 @@ Hi 👋, I'm Fabrício Capeletti
 🇧🇷 Brazil
 
 I build web projects, explore artificial intelligence, and create solutions focused on technology and innovation.
-Currently learning software development, JavaScript, and AI while building projects like Synapse AI.
+Currently learning software development, JavaScript, and AI while building projects like Luntrix.
 
 --- 
 
