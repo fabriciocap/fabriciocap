@@ -3,6 +3,8 @@ Aspiring AI Engineer | Machine Learning · Generative AI · AI Agents
 
 I'm a software development student passionate about Artificial Intelligence and building intelligent systems that solve real-world problems. I'm focused on Machine Learning, Deep Learning, Generative AI, and AI Agents, continuously expanding my knowledge in Python, data science, and AI engineering to develop innovative, efficient, and impactful solutions.
 
+Founder: www.luntrix.com.br
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
